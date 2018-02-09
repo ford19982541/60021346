@@ -24,36 +24,26 @@ for i in range(a):
 print(sum)'''
 #ให้ L เป็นลำดับของเลขจำนวนเต็ม จำนวน n ตัว ให้หาลำดับของเลขที่มีค่าใกล้กับค่าเฉลี่ยมากที่สุด
 
-sum = 0
-avgOfL = 0
-result = 0
-min_result = 0
 L = [1,2,3,4,5,6,7,8,9]
-for i in range(len(L)):
-    sum += L[i]
-avgOfL = sum/len(L)
-min_result = min([abs(i-avgOfL) for i in L])
-for a in range(len(L)):
-    if abs(L[a]-avgOfL) == min_result:
-        print(L.index(L[a]))
+val = len(L)
+avgofL = sum(L)/val
+close_val = []
+for i in L:
+    close_val.append(abs(i-avgofL))
+ans = L.index(min(close_val)+avgofL)
+print(ans)
+
 
 #ให้ L เป็นลำดับของเลขจำนวนเต็มจำนวน n ตัวให้หาตำแหน่งของตัวเลขที่มีค่าที่มากที่สุดที่น้อยกว่าค่าเฉลี่ย
 '''
-sum = 0
-avgOfL = 0
-result = 0
-min_result = 0
-L = [569,981,728,739,150,301,416,125,68,847]
-for i in range(len(L)):
-    sum += L[i] #ผลรวม
-    avgOfL = sum/len(L) #ค่าเฉลี่ย
-for a in range(len(L)):
-    if L[a]> avgOfL  :
-        L[a] = 0
-min_result = min([abs(i-avgOfL) for i in L])
-for a in range(len(L)):
-    if abs(L[a]-avgOfL) == min_result:
-        print(L.index(L[a]),min_result,L[a])
+L = [569,981,782,739,150,301,416,125,68,847]
+n = len(L)
+ค่าที่ใก้ลที่สุด = 0
+ค่าเฉลี่ยของL = sum(L)/n
+for x in L:
+    if x < ค่าเฉลี่ยของL and ค่าที่ใก้ลที่สุด < x:
+        ค่าที่ใก้ลที่สุด = x
+print(L.index(ค่าที่ใก้ลที่สุด))
 '''
 #ให้ L เป็นลำดับของเลขจำนวนเต็มจำนวน n ตัว
 #ให้หาตำแหน่งเริ่มต้นของตัวเลข (ตั้งแต่ตำแหน่ง 0 ถึง n-3)
@@ -61,4 +51,58 @@ for a in range(len(L)):
 #เช่น 1,2,1,2,1,2,3,1,2,1
 #ตอบ ตำแหน่งที่ 4 เพราะ ตำแหน่งที่ 4 มีค่าเป็น 1 และตำแหน่งที่ 5,6 มีค่าเป็น 2,3 ตามลำดับทำให้
 #1,2,3 เป็นเลขที่เรียงกันจากน้อยไปหามากตำแหน่งแรก
+'''
+L = [1,2,1,2,1,2,3,1,2,1]
+n =len(L)
+ลำดับ = 'none'
+for x in range(n-3) :
+    if L[x]<L[x+1]<L[x+2] and L[x+1]< L[x+2]:
+        ลำดับ =  x
+print(ลำดับ)
+'''
+#จงเขียนเกมที่มีผู้เล่นสองคน ผู้เล่นจะสลับกันกรอกข้อมูลตัวเลขจำนวนเต็ม ที่มีค่า 1 จนถึง 13 
+#ผู้เล่นคนใดกรอกตัวเลขแล้วทำให้ผลรวมของตัวเลขทั้งหมดมีค่ามากกว่า 99 จะถือว่าผู้เล่นคนดังกล่าวแพ้
+#ให้นิสิตเขียนโปรแกรมเพื่อพัฒนาเกมดังกล่าว
+'''
+enter = 0
+while enter  != '' :
+    print('กติกา')
+    print('ผู้เล่นทั้งสองจะสลับกันกรอกข้อมูลตัวเลขจำนวนเต็ม ที่มีค่า 1 จนถึง 13 ')
+    print('ถ้าผู้เล่นคนใดกรอกตัวเลขแล้วทำให้ผลรวมของตัวเลขทั้งหมดมีค่ามากกว่า 99 จะถือว่าผู้เล่นคนดังกล่าวแพ้')
+    print('กด Enter เพื่อเริ่มเกมส์')
+    enter = input()
+print('ผู้เล่นคนแรก กรุณากรอกชื่อของคุณ');name_playerA = input()
+print('สวัสดีครับ',name_playerA,'คุณเป็นผู้เล่นคนแรก')
+print('ผู้เล่นคนที่สอง กรุณากรอกชื่อของคุณ');name_playerB = input()
+print('สวัสดีครับ',name_playerB,'คุณเป็นผู้เล่นคนที่สอง')
+print('Welcome to the game.')
+score = 0
+while score < 99 :
+    print(name_playerA,'กรุณากรอกหมายเลขด้วยครับ')
+    a = int(input())
+    while a < 0 or a > 13:
+        print(name_playerA,'กรุณากรอกหมายเลขที่อยู่ระหว่าง 0 ถึง 13 ด้วยครับ')
+        a = int(input())
+    score += a
+    if score > 99 :
+        print('จบเกมส์')
+        print('ผู้ชนะคือ คุณ',name_playerB)
+    if score == 99 :
+        print('จบเกมส์')
+        print('ผู้ชนะคือ คุณ',name_playerA)
+    print(name_playerB, 'กรุณากรอกหมายเลขด้วยครับ')
+    b=int(input())
+    while b < 0 or b > 13:
+        print(name_playerB,'กรุณากรอกหมายเลขที่อยู่ระหว่าง 0 ถึง 13 ด้วยครับ')
+        b = int(input())
+    score += b
+    if score > 99 :
+        print('จบเกมส์')
+        print('ผู้ชนะคือ คุณ', name_playerA)
+    if score == 99 :
+        print('จบเกมส์')
+        print('ผู้ชนะคือ คุณ',name_playerB)
+print('score =',score)
+'''
+
 
