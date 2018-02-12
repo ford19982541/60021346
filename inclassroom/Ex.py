@@ -72,25 +72,29 @@ while(1):
     0. Exit.'''))
     if select_input == '1' :
         score = 0
-        while not score > 99:
+        while not score >= 99:
             ply_1 = int(input('Player 1 please enter number. : '))
-            if ply_1 <1 or ply_1 >13 :
-                ply_1 =int(input('Fill in the numbers,Please fill in again. :'))
+            while ply_1 <1 or ply_1 >13  :
+                ply_1 =int(input('Fill in the numbers,Player 1 please fill in again. :'))
             score += ply_1
             if score > 99:
                 print('Game Over')
                 print('Player 2 Win !!')
+                break
             elif score == 99:
                 print('You are the winer.')
+                break
             ply_2 = int(input('Player 2 please enter number. : '))
-            if ply_2 <1 or ply_1 >13 :
-                ply_2 =int(input('Fill in the numbers,Please fill in again. :'))
+            while ply_2 <1 or ply_2 >13 :
+                ply_2 =int(input('Fill in the numbers,Player 2 please fill in again. :'))
             score += ply_2
             if score > 99:
                 print('Game Over')
                 print('Player 1 Win !!')
+                break
             elif score == 99:
                 print('You are the winer.')
+                break
     elif select_input == '2' :
         print('''
               -Rules.........
@@ -101,5 +105,4 @@ makes the total of all numbers greater
 than 99. It is considered that the player loses.''')
         
     elif select_input == '0' :
-        exit(0)
 
