@@ -24,19 +24,19 @@ for i in range(a):
 print(sum)'''
 #ให้ L เป็นลำดับของเลขจำนวนเต็ม จำนวน n ตัว ให้หาลำดับของเลขที่มีค่าใกล้กับค่าเฉลี่ยมากที่สุด
 '''
-L = [1,2,3,4,5,6,7,8,9]
+L = [2,3,6,7,51,21,63,97,452,35,6,49,3,56,47,62,16]
 val = len(L)
 avgofL = sum(L)/val
 close_val = []
 for i in L:
     close_val.append(abs(i-avgofL))
-ans = L.index(min(close_val)+avgofL)
+ans = L.index(abs(min(close_val)-avgofL))
 print(ans)
 '''
 
 #ให้ L เป็นลำดับของเลขจำนวนเต็มจำนวน n ตัวให้หาตำแหน่งของตัวเลขที่มีค่าที่มากที่สุดที่น้อยกว่าค่าเฉลี่ย
 '''
-L = [569,981,782,739,150,301,416,125,68,847]
+L =  [256,215,125,512,1024,2048,720,1080,960,980,760]
 val = len(L)
 close_val = 0
 avgofL = sum(L)/val
@@ -52,7 +52,7 @@ print(L.index(close_val))
 #ตอบ ตำแหน่งที่ 4 เพราะ ตำแหน่งที่ 4 มีค่าเป็น 1 และตำแหน่งที่ 5,6 มีค่าเป็น 2,3 ตามลำดับทำให้
 #1,2,3 เป็นเลขที่เรียงกันจากน้อยไปหามากตำแหน่งแรก
 '''
-L = [1,2,1,2,1,2,3,1,2,1]
+L = [5,2,1,4,2,5,7,1,2,1,5,2,1]
 val =len(L)
 Order = 'none'
 for i in range(val-3) :
@@ -105,4 +105,5 @@ makes the total of all numbers greater
 than 99. It is considered that the player loses.''')
         
     elif select_input == '0' :
+        exit(0)
 
