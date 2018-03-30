@@ -21,5 +21,6 @@ else :
 
 out = open('output.txt','w',encoding='utf8')
 out.write(u'ค่าเฉลี่ย  = ')
-out.write(str(avg))
+out.write(str(avg)+'\n')
 out.close()
+

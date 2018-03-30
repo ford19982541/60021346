@@ -1,12 +1,11 @@
-a = int(input())
-value = 1
-max_value = 1
-while not a == 0:
-  pre , a = a, int(input())
-  if pre == a:
-    value +=1
-  else:
-    value +=0
-    max_value = max(value,max_value)
-print(max_value)
-max
+L = [5,6,10,23,25,30,32,37,50,68]
+val = len(L)
+Order = []
+if not val % 2 == 0 :
+    Answer = (L[((val+1)//2)-1])
+else:
+    Order.append(((val+2)//2)-1)
+    Order.append((val//2)-1)
+    Answer = ((L[Order[0]]+L[Order[1]])//2)
+print(Answer)
+
