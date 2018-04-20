@@ -46,6 +46,27 @@ class LinkList :
             newNode = Node(itemToinsert)
             newNode.nextNode = cur
             prev.nextNode = newNode
+            
+    def deleteNode(self,key):
+        if self.head == None:
+            pass
+        elif self.head.data == key:
+            tmp = self.head
+            self.head =self.head.nextNode
+            del tmp
+        else:
+            cur = self.head
+            prev =None
+            
+            while cur != None and cur.data != key :
+                prev =cur
+                cur = cur.nextNode
+                
+            if cur == None :
+                print("cannot Delete")
+                return
+            prev.nextNode = cur.nextNode
+            del cur
 L = LinkList ()
 node1 = Node(75)
 node2 = Node(80)
@@ -83,6 +104,9 @@ def printrecru(temp):
 L.additem(12)
 L.insertAfter(80,5)
 L.insertAfter(45,40)
+L.insertBefore(45,666)
+L.deleteNode(12)
+
 L.Traversal()
 
 
