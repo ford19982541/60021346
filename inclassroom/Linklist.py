@@ -22,6 +22,17 @@ class LinkList :
         while(tmp != None):
             print(tmp.data)
             tmp =tmp.nextNode
+            
+    def insertAfter(self,key,itemToinsert):
+        tmp =self.head
+        while(tmp != None and tmp.data != key):
+            tmp = tmp.nextNode
+        
+        if(tmp != None):
+            newNode = Node(itemToinsert)
+            newNode.nextNode = tmp.nextNode
+            tmp.nextNode =newNode
+            
 L = LinkList ()
 node1 = Node(75)
 node2 = Node(80)
@@ -57,6 +68,9 @@ def printrecru(temp):
         
         '''
 L.additem(12)
+L.insertAfter(80,5)
+L.insertAfter(45,40)
 L.Traversal()
+
 
 
