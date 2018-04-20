@@ -12,18 +12,19 @@ class LinkList :
 
     def __init__(self,head = None) :
         self.head = head 
-        #add node
-    def additem(self,item):
+        
+    def additem(self,item): #add node
         newNode = Node(item)
         newNode.nextNode = self.head
         self.head = newNode
-    def Traversal(self):
+        
+    def Traversal(self): #print Node
         tmp = self.head
         while(tmp != None):
             print(tmp.data)
             tmp =tmp.nextNode
             
-    def insertAfter(self,key,itemToinsert):
+    def insertAfter(self,key,itemToinsert): #insertNode
         tmp =self.head
         while(tmp != None and tmp.data != key):
             tmp = tmp.nextNode
@@ -33,6 +34,18 @@ class LinkList :
             newNode.nextNode = tmp.nextNode
             tmp.nextNode =newNode
             
+    def insertBefore(self,key,itemToinsert):
+        prev =None
+        cur = self.head
+        while(cur != None and cur.data != key):
+            prev = cur
+            cur =cur.nextNode
+        if(cur == self.head):
+            self.additem(itemToinsert)
+        elif(cur != None):
+            newNode = Node(itemToinsert)
+            newNode.nextNode = cur
+            prev.nextNode = newNode
 L = LinkList ()
 node1 = Node(75)
 node2 = Node(80)
