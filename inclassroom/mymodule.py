@@ -36,3 +36,4 @@ def find_min_from_hour(hour):  # หานาทีจากเศษ ชม.
 def find_minalpha_from_min(min):  # หาองศาจากค่านาที
     return min / 60 * 360
 
+#gg
