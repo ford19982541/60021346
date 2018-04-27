@@ -102,11 +102,12 @@ def printrecru(temp):
         
         '''
 L.additem(12)
-L.insertAfter(80,5)
-L.insertAfter(45,40)
-L.insertBefore(45,666)
-L.deleteNode(12)
-
+'''
+    L.insertAfter(80,5)
+    L.insertAfter(45,40)
+    L.insertBefore(45,666)
+    L.deleteNode(12)
+'''
 L.Traversal()
 
 
