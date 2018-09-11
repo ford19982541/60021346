@@ -4,14 +4,14 @@ public class runer {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Homework H1 = new Homework();
-		H1.name = "phayao";
-		H1.Word = []{"p","h","a","y","a","o"};
-		H1.arrayLoop();
-		H1.looper();
+		//Homework H1 = new Homework();
+		//H1.name = "phayao";
+		//H1.Word = [{"p","h","a","y","a","o"}];
+		//H1.arrayLoop();
+		//H1.looper();
 		String[] Newworld = {"p","h","a","y","a","o"};
-		
-		
+		STRLoop(Newworld);
+		PatternLoop(Newworld);
 	}
 	public static void arrayLoop(String[]textInput){
 		for(int i=0;i<textInput.length;i++) {
@@ -35,7 +35,7 @@ public class runer {
 				System.out.print(" ");
 			}
 			temp--;
-			for(int j =1 ; j<=i;j++) {
+			for(int j =0 ; j<=i;j++) {
 				System.out.print("#");
 				System.out.print(j);
 			}

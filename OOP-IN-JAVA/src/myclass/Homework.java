@@ -21,10 +21,10 @@ public class Homework {
 	}
 	
 	public void arrayLoop(){
-		for(int i=0;i<this.World.length;i++) {
-			System.out.println(this.World[i]);
+		for(int i=0;i<this.Word.length;i++) {
+			System.out.println(this.Word[i]);
 		}
-		System.out.println("Length is " + this.World.length);
+		System.out.println("Length is " + this.Word.length);
 	}
 	public void STRLoop(String[]textInput){
 		for(int i=0;i<textInput.length;i++) {
