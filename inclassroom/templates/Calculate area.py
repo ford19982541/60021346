@@ -23,7 +23,7 @@ class calcu_Area :
         area = (math.sqrt(3)/4)*(self.side**2)
         return area
     def triangle_gable (self): # 3 เหลี่ยมหน้าจั่ว
-        area = (self.base/4)*(4*(((self.side**2)-(self.base**2))**(1/4)))
+        area = (self.base/4)*(((self.side**2)-(self.base**2))**(1/4))
         return area
 
     def squares(self): # 4 เหลี่ยมจัสตุรัส
@@ -54,9 +54,9 @@ def Triangle_2 (Side):
 
 def Triangle_3 (Side,Base):
     user = calcu_Area()
-    user.side = Side
+    user.Side = Side
     user.base = Base
-    return user.triangle_gable
+    return user.triangle_gable()
 
 
 def Squares (Side):
@@ -94,6 +94,7 @@ while(1):
     elif menu == '3':
         Side = int(input('ความยาวด้าน :'))
         Base = int(input('ความยาวของฐาน :'))
+
         print('พื้นที่มีขนาด = ',Triangle_3(Side,Base))
     elif menu == '4':
         Side = int(input('ความยาวด้าน :'))

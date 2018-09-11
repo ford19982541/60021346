@@ -1,0 +1,5 @@
+John 45
+wick 65
+alice 56
+persia 68
+อีหนู 55

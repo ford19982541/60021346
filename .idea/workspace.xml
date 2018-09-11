@@ -2,8 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fec416d7-eb60-46da-a153-af787c823c7d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test 28-04-61.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/00000000.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/OS_LAP.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/Queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/Stack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/XO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/bookprogram.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inclassroom/templates/Calculate area.py" afterPath="$PROJECT_DIR$/inclassroom/templates/Calculate area.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test 28-04-61.py" afterPath="$PROJECT_DIR$/test 28-04-61.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/Ex.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/Ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/Linklist.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/Linklist.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/Recusion_.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/Recusion_.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/data_input.txt" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/data_input.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/data_output.txt" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/data_output.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/ex_file.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/ex_file.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/ex_sort.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/ex_sort.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/flie_test.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/flie_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/homework.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/homework.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/input.txt" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/input.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/inserchtion.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/inserchtion.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/insertion.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/insertion.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/json.txt" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/json.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/json_test.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/json_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/main.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/main.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/manage.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/manage.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/mymodule.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/mymodule.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/output.txt" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/output.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/primes.txt" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/primes.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/repl.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/repl.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/solve the equation.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/solve the equation.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/ss.txt" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/ss.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/inclassroom/ดด.py" afterPath="$PROJECT_DIR$/inclassroom/LAP CLASS/ดด.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,25 +43,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/60021346$homework.coverage" NAME="homework Coverage Results" MODIFIED="1512197822772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
     <SUITE FILE_PATH="coverage/60021346$mid.coverage" NAME="mid Coverage Results" MODIFIED="1507467293352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom/templates" />
-    <SUITE FILE_PATH="coverage/60021346$Calculate_area.coverage" NAME="Calculate area Coverage Results" MODIFIED="1525016161205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom/templates" />
+    <SUITE FILE_PATH="coverage/60021346$OS_LAP.coverage" NAME="OS_LAP Coverage Results" MODIFIED="1536685120801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom/LAP CLASS" />
+    <SUITE FILE_PATH="coverage/60021346$doubly_linklist.coverage" NAME="doubly linklist Coverage Results" MODIFIED="1525333925246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
     <SUITE FILE_PATH="coverage/60021346$ex_sort.coverage" NAME="ex_sort Coverage Results" MODIFIED="1519303788832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
+    <SUITE FILE_PATH="coverage/60021346$main.coverage" NAME="main Coverage Results" MODIFIED="1505231297009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
+    <SUITE FILE_PATH="coverage/60021346$flie_test.coverage" NAME="flie_test Coverage Results" MODIFIED="1525344497698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
+    <SUITE FILE_PATH="coverage/60021346$XO.coverage" NAME="XO Coverage Results" MODIFIED="1525181085964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
+    <SUITE FILE_PATH="coverage/60021346$homework.coverage" NAME="homework Coverage Results" MODIFIED="1512197822772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
+    <SUITE FILE_PATH="coverage/60021346$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1525840496746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
+    <SUITE FILE_PATH="coverage/60021346$Calculate_area.coverage" NAME="Calculate area Coverage Results" MODIFIED="1526309731293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom/templates" />
+    <SUITE FILE_PATH="coverage/60021346$bookprogram.coverage" NAME="bookprogram Coverage Results" MODIFIED="1530865895794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
+    <SUITE FILE_PATH="coverage/60021346$00000000.coverage" NAME="00000000 Coverage Results" MODIFIED="1536685760124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom/LAP CLASS" />
     <SUITE FILE_PATH="coverage/60021346$insertion.coverage" NAME="insertion Coverage Results" MODIFIED="1524889109047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
     <SUITE FILE_PATH="coverage/60021346$Ex.coverage" NAME="Ex Coverage Results" MODIFIED="1518405945074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
     <SUITE FILE_PATH="coverage/60021346$test.coverage" NAME="test Coverage Results" MODIFIED="1507465177614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom/inclassroom" />
-    <SUITE FILE_PATH="coverage/60021346$main.coverage" NAME="main Coverage Results" MODIFIED="1505231297009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
-    <SUITE FILE_PATH="coverage/60021346$test_28_04_61.coverage" NAME="test 28-04-61 Coverage Results" MODIFIED="1524889938715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/60021346$test_28_04_61.coverage" NAME="test 28-04-61 Coverage Results" MODIFIED="1525100380662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/60021346$Recusion_.coverage" NAME="Recusion_ Coverage Results" MODIFIED="1519886379501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
     <SUITE FILE_PATH="coverage/60021346$repl.coverage" NAME="repl Coverage Results" MODIFIED="1512197827012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
+    <SUITE FILE_PATH="coverage/60021346$json_test.coverage" NAME="json_test Coverage Results" MODIFIED="1525839576943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inclassroom" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Calculate area.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/inclassroom/templates/Calculate area.py">
+      <file leaf-file-name="OS_LAP.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/OS_LAP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-864">
-              <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+            <state relative-caret-position="146">
+              <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="repl.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/repl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="752">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,7 +114,15 @@
         <option value="$PROJECT_DIR$/inclassroom/Recusion_.py" />
         <option value="$PROJECT_DIR$/inclassroom/insertion.py" />
         <option value="$PROJECT_DIR$/test 28-04-61.py" />
+        <option value="$PROJECT_DIR$/inclassroom/XO.py" />
+        <option value="$PROJECT_DIR$/inclassroom/flie_test.py" />
+        <option value="$PROJECT_DIR$/inclassroom/json_test.py" />
+        <option value="$PROJECT_DIR$/inclassroom/Stack.py" />
+        <option value="$PROJECT_DIR$/inclassroom/Queue.py" />
         <option value="$PROJECT_DIR$/inclassroom/templates/Calculate area.py" />
+        <option value="$PROJECT_DIR$/inclassroom/bookprogram.py" />
+        <option value="$PROJECT_DIR$/inclassroom/LAP CLASS/OS_LAP.py" />
+        <option value="$PROJECT_DIR$/inclassroom/LAP CLASS/00000000.py" />
       </list>
     </option>
   </component>
@@ -77,9 +133,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="14" />
     <option name="y" value="30" />
-    <option name="width" value="974" />
+    <option name="width" value="704" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -114,8 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,10 +182,24 @@
               <item name="60021346" type="462c0819:PsiDirectoryNode" />
               <item name="inclassroom" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="60021346" type="b2602c69:ProjectViewProjectNode" />
+              <item name="60021346" type="462c0819:PsiDirectoryNode" />
+              <item name="inclassroom" type="462c0819:PsiDirectoryNode" />
+              <item name="LAP CLASS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="60021346" type="b2602c69:ProjectViewProjectNode" />
+              <item name="60021346" type="462c0819:PsiDirectoryNode" />
+              <item name="inclassroom" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,6 +215,11 @@
       </console-settings>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\60021346\inclassroom\LAP CLASS" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -159,7 +232,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Calculate area">
+  <component name="RunManager" selected="Python.00000000">
+    <configuration name="00000000" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inclassroom/LAP CLASS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="60021346" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inclassroom/LAP CLASS/00000000.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="Calculate area" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,7 +269,25 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Recusion_" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OS_LAP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inclassroom/LAP CLASS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="60021346" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inclassroom/LAP CLASS/OS_LAP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -191,12 +300,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="60021346" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inclassroom/Recusion_.py" />
+      <option name="SCRIPT_NAME" value="D:\60021346\inclassroom\LAP CLASS\Queue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ex_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bookprogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -209,61 +318,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="60021346" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inclassroom/ex_sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="insertion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inclassroom" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="60021346" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inclassroom/insertion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="test 28-04-61" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="60021346" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test 28-04-61.py" />
+      <option name="SCRIPT_NAME" value="D:\60021346\inclassroom\LAP CLASS\bookprogram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ex_sort" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Recusion_" />
-      <item index="2" class="java.lang.String" itemvalue="Python.insertion" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test 28-04-61" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Calculate area" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Calculate area" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Queue" />
+      <item index="2" class="java.lang.String" itemvalue="Python.bookprogram" />
+      <item index="3" class="java.lang.String" itemvalue="Python.OS_LAP" />
+      <item index="4" class="java.lang.String" itemvalue="Python.00000000" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Calculate area" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test 28-04-61" />
-        <item index="2" class="java.lang.String" itemvalue="Python.insertion" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Recusion_" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex_sort" />
+        <item index="0" class="java.lang.String" itemvalue="Python.00000000" />
+        <item index="1" class="java.lang.String" itemvalue="Python.OS_LAP" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bookprogram" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Calculate area" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Queue" />
       </list>
     </recent_temporary>
   </component>
@@ -320,22 +393,28 @@
       <option name="project" value="LOCAL" />
       <updated>1525016813385</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="pre-test">
+      <created>1525016831927</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1525016831927</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.094791666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="961" y="61" width="958" height="1018" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19832109" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3326338" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979014" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -343,11 +422,11 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +468,8 @@
     <MESSAGE value="doubly linklist" />
     <MESSAGE value="insertion sort" />
     <MESSAGE value="project" />
-    <option name="LAST_COMMIT_MESSAGE" value="project" />
+    <MESSAGE value="pre-test" />
+    <option name="LAST_COMMIT_MESSAGE" value="pre-test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -400,41 +480,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/inclassroom/homework.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/repl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/homework.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/repl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/homework.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inclassroom/templates/mid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -442,28 +487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/templates/mid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/templates/mid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/templates/mid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/main.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
@@ -477,14 +501,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/main.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/mymodule.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/mymodule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
@@ -498,14 +522,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/main.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/mymodule.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/mymodule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
@@ -519,14 +543,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/main.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/mymodule.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/mymodule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
@@ -540,56 +564,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/main.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/mymodule.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/mymodule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/main.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/mymodule.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/mymodule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/main.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/mymodule.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/mymodule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/main.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/mymodule.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/mymodule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -603,66 +627,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/json.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/json_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/inserchtion.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/inserchtion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/ex_sort.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/ex_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="60" lean-forward="false" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/Ex.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/Ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="593">
           <caret line="74" column="30" lean-forward="false" selection-start-line="73" selection-start-column="17" selection-end-line="74" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/repl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test 28-04-61.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/Recusion_.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/Recusion_.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/insertion.py">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/insertion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/ดด.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/ss.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/primes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/mymodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/XO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test 28-04-61.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/json.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="71" lean-forward="false" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/Queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/flie_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/json_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/Linklist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/bookprogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="122" column="16" lean-forward="false" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -670,101 +797,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/ดด.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/ss.txt">
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/doubly linklist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/solve the equation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/primes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/mymodule.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/Linklist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/homework.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/flie_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/solve the equation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inclassroom/doubly linklist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inclassroom/templates/Calculate area.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-864">
-          <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        <state relative-caret-position="-272">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/repl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/00000000.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclassroom/LAP CLASS/OS_LAP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>
