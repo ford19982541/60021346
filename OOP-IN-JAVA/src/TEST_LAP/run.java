@@ -15,6 +15,11 @@ public class run {
 		method_lap objtest2 = new method_lap("A",5);
 		objtest2.showloopBytext();
 		System.out.println(" ");
+		
+		String[]b = {"S","E"};
+		method_lap objtest3 = new method_lap(b,5,"SE");
+		objtest3.showloopBytext();
+		System.out.println(" ");
 	}
 		
 	
